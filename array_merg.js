@@ -15,3 +15,6 @@ for(let i=0;i<c.length;i++){
 console.log(c[i]);
 
 }
+
+// this will merge two arrays a and b into c
+// c will contain all elements of a followed by all elements of b           
