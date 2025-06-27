@@ -4,4 +4,4 @@ let sum=0;
 for(i=0;i<n;i+=2){
     sum=sum+a[i];
 }
-console.log(`sun = `,sum)
+console.log(`sun = `,sum) 
