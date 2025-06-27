@@ -8,4 +8,5 @@ for(i=0;i<5;i++){
 console.log(count);
 
 // This code counts the number of non-negative elements in the array 'a'.
-// It initializes a counter 'count' to zero and iterates through each element of the array
+//It initializes a counter 'count' to zero and iterates through each element of the array// This code counts the number of non-negative elements in the array 'a'.
+//It initializes a counter 'count' to zero and iterates through each element of the array
